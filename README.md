@@ -15,9 +15,9 @@
 
 
 <h3 align="left">Latest Projects:</h3>
-- Basic Todo list with options to add and remove tasks, used Angular - <a href="https://github.com/GintsVe/todo-angular">Todo</a>
+- Mobile Todo list app with options to add and remove tasks, used Flutter. - <a href="https://github.com/GintsVe/flutter_todo">Todo</a>
 <br>
-- Memory game with 3 difficulty levels, created with react - <a href="https://github.com/GintsVe/memory-game">Memory Game</a>
+- Timesheet filtered by an employee name and a week, and edit hours worked for selected employee and week. - <a href="https://github.com/GintsVe/timesheet-entries">Timesheet entries</a>
 <br>
 - Jokes Website using API, local storage, Vue.js, Routing. You can add your own jokes or get 10 random jokes from API. - <a href="https://github.com/GintsVe/jokes-app-vue">Jokes Website</a>
 
